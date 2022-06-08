@@ -6,7 +6,7 @@ class Duckimann {
 		this.pronouns = "he" || "him";
 		this.lang = ["vi-VN", "en-US"];
 		this.tools = ["Node", "Docker"];
-		this.learning = ["Vue 2", "Nuxt", "PHP, "SQL"];
+		this.learning = ["VueJS", "Nuxt", "Vite", "PHP, "SQL"];
 	}
 
 	sayHi() {
